@@ -5,4 +5,5 @@ just an advice for myself
 Why?
 - Built for massive scalability
 - Auto-Saving and Backup Handling
-- Easier Multi-Server Handling (If a player joins two servers at once, ProfileService automatically prevents duplicate sessions and ensures only one session is active.)
+## - Easier Multi-Server Handling
+  If a player joins two servers at once, ProfileService automatically prevents duplicate sessions and ensures only one session is active.
