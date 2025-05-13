@@ -10,3 +10,6 @@ Why?
   You can set up data backups and default templates easily.
 ## Easier Multi-Server Handling
   If a player joins two servers at once, ProfileService automatically prevents duplicate sessions and ensures only one session is active.
+## Built-in Events and Hooks
+ProfileService has hooks like .ListenToRelease() and .ListenToProfileLoad().
+Makes it easier to respond to data loading, saving, or errors.
