@@ -13,3 +13,8 @@ Why?
 ## Built-in Events and Hooks
 ProfileService has hooks like .ListenToRelease() and .ListenToProfileLoad().
 Makes it easier to respond to data loading, saving, or errors.
+
+# Advice to my business life
+- อย่าเป็นเงาคนของคนอื่น
+- ต้องพิเศษกว่าคนอื่น
+- ทำธุรกิจสนที่คนก่อน ถ้ามีคนเรื่อยๆทุกอย่างจะตามมาเอง
